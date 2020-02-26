@@ -1,0 +1,5 @@
+2020-02-26 09:50:26 ERROR ConstructionCostService:51 - java.util.InputMismatchException
+2020-02-26 09:50:26 INFO  ConstructionCostService:60 - Exited from getDataFromInput Function in ConstructionCost Calculator Service Class
+2020-02-26 09:50:26 INFO  ServiceNavigation:67 - Couldn't process Interest Calculations because of invalid input!
+2020-02-26 09:50:26 INFO  ServiceNavigation:69 - Exiting from Construction Cost Calculator Service
+2020-02-26 09:50:26 INFO  ServiceNavigation:75 - Exiting from Service Navigation class
